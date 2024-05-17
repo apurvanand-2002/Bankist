@@ -8,5 +8,5 @@ The given app is a simulation of a bank.
 Please use the above usernames and pins for login.
 One can take loan, transfer money and close his/ her account in this app.
 
-Assumption: The only assumption used in this app is that on currency transfer from 1 person to another, even though currency changes but the changes i 1:1 i.e 100Rs transfer
+Assumption: The only assumption used in this app is that on currency transfer from 1 person to another, even though currency changes but the change is 1:1 i.e 100Rs transfer
 is equivalent to 100 USD transfer == 100 Yen transfer == 100 Euros Transfer.   
